@@ -113,5 +113,5 @@ Tab:AddButton({
 	Callback = function()
 	    loadstring(game:HttpGet("https://pastebin.com/raw/eDzjAAbK"))()
       		end    
-  
+  })
   
